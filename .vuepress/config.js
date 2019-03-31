@@ -1,5 +1,5 @@
 module.exports = {
-    title: "VuePress Deploy",
+    title: "悦层",
     locales: {
         '/': {
             lang: 'zh-CN',
